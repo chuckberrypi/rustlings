@@ -5,6 +5,7 @@
 fn main() {
     let a = vec![1; 1000];
 
+
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
     } else {

@@ -18,6 +18,7 @@ fn calculate_apple_price(n: i32) -> i32 {
     }
 }
 
+
 // Don't modify this function!
 #[test]
 fn verify_test() {
