@@ -3,7 +3,9 @@
 
 
 fn main() {
-    let x: i8 = 8;
+
+    let x: i32 = 0;
+
     if x == 10 {
         println!("Ten!");
     } else {

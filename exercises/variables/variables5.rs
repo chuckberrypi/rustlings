@@ -3,8 +3,9 @@
 
 
 fn main() {
-    let number = "3"; // don't change this line
-    println!("Number {}", number);
+    let number = "T-H-R-E-E"; // don't change this line
+    println!("Spell a Number : {}", number);
     let number = 3;
-    println!("Number {}", number);
+    println!("Number plus two is : {}", number + 2);
+
 }
